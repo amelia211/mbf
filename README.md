@@ -16,4 +16,4 @@ $git clone https://github.com/amelia211/mbf
 
 $cd mbf
 
-$python fb.py
+$python kontol.py
