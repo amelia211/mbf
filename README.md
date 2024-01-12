@@ -16,4 +16,4 @@ $git clone https://github.com/amelia211/mbf
 
 $cd mbf
 
-$python kontol.py
+$python ngocok.py
