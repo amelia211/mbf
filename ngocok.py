@@ -234,15 +234,6 @@ def pilih_menu():
        asw=input('\033[00mTarget User: \033[93m')
        if asw.isdigit():
           asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
-          asw='/profile.php?id='+asw
        else:
           asw='/'+asw
        try:
